@@ -5,27 +5,27 @@ RabbitMQ是实现了高级消息队列协议（AMQP）的开源消息代理软�
 
 **RabbitMQ服务支持下列操作系统：**
 
-Linux
-WindowsNT 到 10
-Windows Server2003 到 2016
-macOS
-Solaris
-FreeBSD
-TRU64
-VxWorks
+- Linux
+- WindowsNT 到 10
+- Windows Server2003 到 2016
+- macOS
+- Solaris
+- FreeBSD
+- TRU64
+- VxWorks
 
 **RabbitMQ支持下列编程语言：**
 
-Python
-Java
-Ruby
-PHP
-C#
-JavaScript
-Go
-Elixir
-Objective-C
-Swift
+- Python
+- Java
+- Ruby
+- PHP
+- C#
+- JavaScript
+- Go
+- Elixir
+- Objective-C
+- Swift
 
 ## 主要特性
 可伸缩性：集群服务
